@@ -1,5 +1,5 @@
 name: platform_specific_test
-description: A new Flutter plugin project.
+description: Platform specific code test.
 version: 0.0.1
 repository: https://github.com/MatijaNovosel/flutter-platform-specific-test
 homepage: https://github.com/MatijaNovosel/flutter-platform-specific-test
