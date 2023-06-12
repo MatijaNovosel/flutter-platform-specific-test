@@ -31,7 +31,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  static const platform = MethodChannel("samples.flutter.dev/battery");
+  static const platform = MethodChannel("test/battery");
   String _batteryLevel = "Unknown battery level.";
 
   Future<void> _getBatteryLevel() async {
